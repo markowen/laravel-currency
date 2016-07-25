@@ -1,5 +1,5 @@
 {
-    "name": "torann/currency",
+    "name": "markowen/currency",
     "description": "This provides Laravel 4 with currency functions.",
     "keywords": ["laravel", "laravel4", "currency", "money", "exchange rate"],
 	"license": "BSD 2-Clause",
